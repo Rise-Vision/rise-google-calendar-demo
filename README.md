@@ -50,7 +50,7 @@ Once you have set up the calendar it is now time to set up the HTML. For this de
 ...
 
  <script src="src/_bower_components/webcomponentsjs/webcomponents-lite.min.js"></script>
- <link rel="import" href="src/_bower_components/rise-google-sheet/rise-google-sheet.html">
+ <link rel="import" href="src/_bower_components/rise-google-calendar/rise-google-calendar.html">
 ...
 </head>
 You can now add the Component to the body of your HTML. The body of your HTML should look like this:
